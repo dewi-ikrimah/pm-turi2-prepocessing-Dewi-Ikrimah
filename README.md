@@ -14,7 +14,7 @@ Praktikum ini membahas alur kerja prapemrosesan data (*data preprocessing*) dan 
 
 Isi Repositori
 
-Copy of PM_P4_Dewi Ikrimah_2488010049.ipynb
+PM_P4_Dewi_Ikrimah_2488010049.ipynb
 
 Temuan Utama
 
